@@ -1,0 +1,43 @@
+.row1{
+    background-color: black;
+    display: inline-block;
+    width: 100%;
+}
+
+.text1a{
+    color: white;
+    font-size: 80px;
+    display: inline-block;
+}
+
+.text1b{
+    color: cyan;
+    font-size: 80px;
+    display: inline-block;
+}
+
+.row2{
+    background-color: rgb(138, 19, 138);
+    display: inline-block;
+    width: 100%;
+}
+
+.text2{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    font-style: italic;
+}
+
+.row3{
+    background-color: skyblue;
+    display: inline-block;
+    width: 100%;
+}
+
+.text3{
+    color: navy;
+    font-size: 50px;
+    text-align: right;
+    text-decoration: underline;
+}
